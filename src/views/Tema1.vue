@@ -132,7 +132,7 @@
                 h3.text-center.p-flip_img Zonificación de manejo ambiental del proyecto               
               .tarjeta-flip__contenido.p-3
                 h5 Zonificación de manejo ambiental del proyecto
-                p Se toman en cuenta al iniciar la zonificación ambiental y la evaluación de impactos para determinar esta zonificación, además se deben tener  en cuenta el resultado las áreas de intervención, áreas de intervención con restricciones y las áreas de exclusión del área.
+                p Se toman en cuenta al iniciar la zonificación ambiental y la evaluación de impactos para determinar esta zonificación, además se deben tener en cuenta en el resultado las áreas de intervención, áreas de intervención con restricciones y las áreas de exclusión del área.
 
         .col-sm-6.col-xl-3.mb-4.mb-sm-0
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -162,11 +162,12 @@
       .col-lg-10
         .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5(data-aos="zoom-in-down")
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/img2.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/temas/img17_1.svg')})`}"
           )
           .bloque-texto-g__texto.p-4
             p(data-aos="fade-down") Los principios aplicables son aquellas guías o ideas que recogen las disposiciones para orientar a la sociedad y así proteger el derecho a un ambiente sano y equilibrado, buscando proteger a todos los organismos vivos. 
-
+            br
+            br
             p(data-aos="fade-down") De esta manera, se identifica que no se encuentra un consenso de una lista detallada y cerrada de los principios fundacionales del derecho ambiental. 
 
         p.mt-5(data-aos="fade-down") Por otro lado, el medio ambiente es patrimonio común, por ello cada ciudadano tiene derechos y deberes con su cuidado, y está en la obligación de proteger los recursos naturales y hacer buenos usos de los servicios ambientales que el planeta ofrece, con lo cual se consigue un equilibrio y se podrá alcanzar desarrollo sostenible pactado por Colombia en la Agenda 2030 de la UNESCO. 
@@ -193,27 +194,27 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        p(data-aos="flip-down").p-5.color-grad-green.mb-0 Es por esto, que la Metodología General para la Elaboración y Presentación de Estudios Ambientales se constituye en un instrumento de apoyo; una guía donde se pretenden plasmar los lineamientos generales para orientar a quienes elaboran los elaboran antes de iniciar un proyecto, obra o actividades sujetas a licenciamiento ambiental, esto se hace con el fin de que dichos estudios contengan la información necesaria, relevante y suficiente para que las autoridades ambientales puedan tomar decisiones frente al desarrollo y ejecución de los proyectos en mención.
+        p(data-aos="flip-down").p-5.color-grad-green.mb-0 Es por esto, que la Metodología General para la Elaboración y Presentación de Estudios Ambientales se constituye en un instrumento de apoyo; una guía donde se pretenden plasmar los lineamientos generales para orientar a quienes los elaboran antes de iniciar un proyecto, obra o actividades sujetas a licenciamiento ambiental, esto se hace con el fin de que dichos estudios contengan la información necesaria, relevante y suficiente para que las autoridades ambientales puedan tomar decisiones frente al desarrollo y ejecución de los proyectos en mención.
       .col-lg-3.my-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img19.svg', alt='')
 
     Separador 
     #t_1_4.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 1.4 Requisitos para aplicar un Estudio de Impacto Ambiental 
-
+    p(data-aos="fade-down") Los requisitos para poder aplicar un estudio ambiental según la ANLA se pueden referenciar en siete (7) pasos, los cuales se resumen a continuación.
     .bg-img3.mt-5.p-5(data-aos="fade-left")
       .row.justify-content-center.align-items-center
         .col-lg-10
           LineaTiempoD.color-primario
             .row.justify-content-center.align-items-center(numero="1" titulo="Proceso de tamizado")
               .col-lg-8 
-                p Diagnosticar si los impactos del proyecto a desarrollar son suficientemente graves para desarrollar la EIA.       
+                p Diagnosticar si los impactos del proyecto a desarrollar son suficientemente graves para desarrollar el EIA.       
               .col-lg-4
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img21.svg', alt='')
 
             .row.justify-content-center.align-items-center(numero="2" titulo="Proceso de selección")
               .col-lg-8 
-                p Identificar la base de análisis y establecer límites de la EIA, para describir las alternativas del proyecto.       
+                p Identificar la base de análisis y establecer límites del EIA, para describir las alternativas del proyecto.       
               .col-lg-4
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
 
@@ -229,9 +230,9 @@
               .col-lg-4
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img24.svg', alt='')
 
-            .row.justify-content-center.align-items-center(numero="5" titulo="Informe de Evaluación de Impacto")
+            .row.justify-content-center.align-items-center(numero="5" titulo="Informe de evaluación de impacto")
               .col-lg-8 
-                p Reunir toda la información reunida, en un documento bien estructurado, asegurándose que contenga todos los componentes.      
+                p Reunir toda la información, en un documento bien estructurado, asegurándose que contenga todos los componentes.      
               .col-lg-4
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img25.svg', alt='')
 

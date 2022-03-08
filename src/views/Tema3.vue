@@ -7,10 +7,11 @@
         span 3
       h1 Sistemas de Información Geográfica
 
-    .bg-img5.mt-5.p-5(data-aos="fade-left")        
+    .bg-img5.mt-5.p-5(data-aos="fade-left") 
+      img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img48.svg', alt='')           
       .row.justify-content-center.align-items-center
         .col-lg-8
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img48.svg', alt='')
+          
 
           p(data-aos="fade-down").mt-5 Gracias a los mapas se pueden comunicar y transmitir diversos volúmenes de información de una forma clara, donde por medio de ellos se puede captar e interpretar el contenido deseado, para así, por medio del análisis llegar a una conclusión sobre cualquier tipo de investigación o necesidad y en cualquier ámbito: personal, profesional, laboral, etc. 
 
@@ -32,7 +33,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        p(data-aos="flip-down").p-5.color-grad-green.mb-0 De igual manera cabe resaltar que el software y hardware unidos a los mapas, permiten ver una representación gráfica del contexto estudiado.#[br]#[br]
+        p(data-aos="flip-down").p-5.color-grad-green.mb-0 De igual manera cabe resaltar que el #[i software] y #[i hardware] unidos a los mapas, permiten ver una representación gráfica del contexto estudiado.#[br]#[br]
           span Por otro lado, se encuentran diferentes aplicaciones en los SIG, por lo que también están en constante evolución, por lo anterior, la relación entre ellos es vital para que cobren sentido como herramientas que sirvan para diversos casos. A continuación, se presentan las principales aplicaciones:
       .col-lg-3.my-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img53.svg', alt='') 
@@ -48,11 +49,11 @@
 
       .tarjeta.color-acento-botones.p-3(x="30.8%" y="46%" numero="")
         .h5.mb-2 Agricultura y medio ambiente
-        p Se puede optimizar los recursos del suelo y agua, así como: la planificación de los sistemas de producción. 
+        p Se pueden optimizar los recursos del suelo y agua, así como: la planificación de los sistemas de producción. 
 
       .tarjeta.color-acento-botones.p-3(x="44%" y="63%" numero="")
-        .h5.mb-2 Geomarketing
-        p Se ha usado para crear campañas de marketing, puesto que es indispensable la información geográfica, la cual es suministra desde bases de datos de clientes para determinar cuál es la estrategia óptima.         
+        .h5.mb-2 #[i Geomarketing]
+        p Se ha usado para crear campañas de #[i marketing], puesto que es indispensable la información geográfica, la cual suministra bases de datos de clientes para determinar cuál es la estrategia óptima.         
 
       .tarjeta.color-acento-botones.p-3(x="59.6%" y="60.3%" numero="")
         .h5.mb-2 Planes de emergencia
@@ -64,7 +65,7 @@
 
       .tarjeta.color-acento-botones.p-3(x="73%" y="22%" numero="")
         .h5.mb-2 Sector salud
-        p Los SIG permiten conocer cuáles servicios de salud se ofertan en cierto sector en específico, de igual manera, puede dar a conocer algún factor de riesgo en una determinada zona.           
+        p Los SIG permiten conocer cuáles servicios de salud se ofertan en cierto sector en específico, de igual manera, pueden dar a conocer algún factor de riesgo en una determinada zona.           
 
     p(data-aos="fade-left").mt-5 Un SIG está compuesto por varios componentes, cada uno de ellos cumple una función para determinar la cartografía que se debe utilizar en un proyecto o actividad que se esté desarrollando. Para entender las relaciones entre los SIG, es necesario tener en cuenta diferentes características, las cuales se pueden relacionar entre sí:
 
@@ -80,7 +81,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img56.jpg', alt='')
             p.mt-4 Estructura y organización del personal para ejecutar correctamente las actividades. 
 
-        .row.justify-content-center.align-items-center(titulo="Información Geográfica")
+        .row.justify-content-center.align-items-center(titulo="Información geográfica")
           .col-lg-10
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img57.jpg', alt='')
             p.mt-4 Debe estar ubicada espacialmente, actualizada y completa, para que así sea útil en las aplicaciones.
@@ -90,12 +91,12 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img58.jpg', alt='')
             p.mt-4 Deben tener detalles y estar probadas.
 
-        .row.justify-content-center.align-items-center(titulo="Software")
+        .row.justify-content-center.align-items-center(titulo="<i>Software</i>")
           .col-lg-10
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img59.jpg', alt='')
-            p.mt-4 De basa en los tres puntos anteriores, por lo que requiere de datos, que se convierten en información, para la toma de decisiones.
+            p.mt-4 Se basa en los tres puntos anteriores, por lo que requiere de datos, que se convierten en información, para la toma de decisiones.
 
-        .row.justify-content-center.align-items-center(titulo="Hardware")
+        .row.justify-content-center.align-items-center(titulo="<i>Hardware</i>")
           .col-lg-10
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.jpg', alt='')
             p.mt-4 Este tiene relación directa con la cantidad de datos que se manejan, con el fin de que estos arrojen la información requerida en un momento dado, por ejemplo: para diseñar un plan de emergencias o para ser utilizado en educación.  
@@ -112,7 +113,7 @@
           .bloque-texto-b.color-primario.p-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h5 Es importante entender y aplicar los conceptos básicos de las técnicas y las mediciones cartográficas, para así, poder conocer los elementos que integran el proceso de medición y las diferentes técnicas que permiten tener confiabilidad y validez mediante la comprensión de los distintos elementos. Por otro lado, existen varios tipos de técnicas que se pueden usar en la cartografía convencional. #[br]
+              h5 Es importante entender y aplicar los conceptos básicos de las técnicas y las mediciones cartográficas, para así, poder conocer los elementos que integran el proceso de medición y las diferentes técnicas que permiten tener confiabilidad y validez mediante la comprensión de los distintos elementos. Por otro lado, existen varios tipos de técnicas que se pueden usar en la cartografía convencional, las cuales se mencionan a continuación: #[br]
               p.mb-0 (Alonso, 2006), 
               i.fas.fa-quote-right
         
@@ -139,14 +140,14 @@
         .cajon.color-acento-contenido.p-4.mb-4
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img62.svg', alt='')
 
-    p(data-aos="fade-down").mt-5 Cabe resaltar que con los símbolos se usan varios colores, como se observa a continuación en la figura 3:    
+    p(data-aos="fade-down").mt-5 Cabe resaltar que con los símbolos se usan varios colores, como se observa a continuación en la figura:    
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5        
         .titulo-sexto.color-acento-contenido
           h5 Figura 3. 
           span Simbología y colores utilizada en un SIG
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img63.svg', alt='')
-    p(data-aos="fade-down").mt-5 Ahora bien, una escala es una relación proporcional de medida que hay en un terreno y que hace referencia a un mapa, por lo que es importante definir el uso del mapa, lo anterior determina la escala, y esto se basa el nivel de detalles que se necesiten. Las escalas se dividen en 3 categorías, las cuales se encuentran descritas en la siguiente figura 4: 
+    p(data-aos="fade-down").mt-5 Ahora bien, una escala es una relación proporcional de medida que hay en un terreno y que hace referencia a un mapa, por lo que es importante definir el uso del mapa, lo anterior determina la escala, y esto se basa el nivel de detalles que se necesiten. Las escalas se dividen en 3 categorías, las cuales se encuentran descritas en la siguiente figura: 
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5        

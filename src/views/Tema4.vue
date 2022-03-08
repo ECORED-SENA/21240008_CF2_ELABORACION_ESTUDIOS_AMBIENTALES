@@ -10,17 +10,17 @@
     .bg-img5.mt-5.p-5(data-aos="fade-left")        
       .row.justify-content-center.align-items-center
         .col-lg-8
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img65.jpg', alt='')
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img65.png', alt='')
 
-          p(data-aos="fade-down").mt-5 Como deber constitucional, el estado colombiano debe planificar y aprovechar el manejo de los recursos naturales, para así, generar un desarrollo sostenible, por lo que ha definido la reglamentación a usar hasta el día de hoy, que han permitido minimizar los factores de deterioro ambiental a nivel general. 
+          p(data-aos="fade-down").mt-5 Como deber constitucional, el Estado colombiano debe planificar y aprovechar el manejo de los recursos naturales, para así, generar un desarrollo sostenible, por lo que ha definido la reglamentación a usar hasta el día de hoy, que han permitido minimizar los factores de deterioro ambiental a nivel general. 
 
     Separador 
     #t_4_1.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.1 Conceptos y fundamentación del trámite
 
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-8
-        p(data-aos="flip-down").p-5.color-grad-green A continuación, se darán a conocer algunos conceptos clave a la hora de realizar algún trámite ambiental, los cuales son de vital importancia para cada proyecto, obra u actividad, cabe resaltar que según la CAR los proyectos que requieren de Licencia ambiental son aquellos listados en el Articulo 2.2.2.3.2.3 del Decreto 1076 de 2015.
+    .row.justify-content-center.align-items-top.mt-5
+      .col-lg-9
+        p(data-aos="flip-down").mt-3.p-4.color-grad-green A continuación, se darán a conocer algunos conceptos clave a la hora de realizar algún trámite ambiental, los cuales son de vital importancia para cada proyecto, obra o actividad, cabe resaltar que según la CAR los proyectos que requieren de Licencia Ambiental son aquellos listados en el Articulo 2.2.2.3.2.3 del Decreto 1076 de 2015.
         p(data-aos="fade-down") Por otro lado, las obligaciones generales que debe asumir el titular de una Licencia Ambiental están descritas por la CAR, 2015, por lo cual, se deben tener en cuenta los conceptos que podrá revisar en el recurso de aprendizaje que se encuentra a continuación:
 
       .col-lg-3.my-2
@@ -64,19 +64,19 @@
     Separador 
     #t_4_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
       h2 4.2 Métodos y herramientas utilizadas  
-    .bg-img7
+    .bg-img7.px-3.pt-5
       p(data-aos="fade-down") Existen diversos métodos para trámites ambientales dependiendo del componente a realizar, teniendo claridad en este paso, por medio de documentos y formatos se puede realizar la solicitud de la licencia ambiental de acuerdo con lo mencionado en la figura anterior. Entre los principales formatos que son de carácter indispensable se encuentran:
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-3.my-2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img70.svg', alt='')
-      .col-lg-3.my-2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img71.svg', alt='')
-      .col-lg-3.my-2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img72.svg', alt='')
-      .col-lg-3.my-2
-        img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img73.svg', alt='')     
+      .row.justify-content-center.align-items-center.mt-5
+        .col-lg-3.my-2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img70.svg', alt='')
+        .col-lg-3.my-2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img71.svg', alt='')
+        .col-lg-3.my-2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img72.svg', alt='')
+        .col-lg-3.my-2
+          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img73.svg', alt='')     
 
-    p(data-aos="fade-down").mt-5 La ANLA, pensando en facilitar los trámites a los usuarios, realizó la creación de varias guías que permiten establecer los lineamientos necesarios y normas técnicas para el licenciamiento ambiental, cada una de las cuales contempla los siguientes elementos:
+      p(data-aos="fade-down").mt-5 La ANLA, pensando en facilitar los trámites a los usuarios, realizó la creación de varias guías que permiten establecer los lineamientos necesarios y normas técnicas para el licenciamiento ambiental, cada una de las cuales contempla los siguientes elementos:
 
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img74.svg', alt='')   
 

@@ -22,7 +22,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img30.svg', alt='') 
       .col-lg-4.my-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img31.svg', alt='') 
-
+    p(data-aos="fade-down").mt-5 Ahora se invita a revisar el siguiente recurso de aprendizaje, donde se definen algunos conceptos indispensables para realizar un trámite ambiental. 
     .bg-img6.p-5.mt-5(data-aos="fade-left")
       SlyderA.my-5
         .row.justify-content-center.align-items-center
@@ -32,9 +32,9 @@
             .texto-sup.d-none.d-lg-block 
               .row.justify-content-end.align-items-center
                 .col-lg-6                             
-                  p.mb-0.color-green.p-2 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactaran el contexto en el cual se realizaron.
+                  p.mb-0.color-green.p-2 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactarán el contexto en el cual se realizaron.
             .color-green.p-2.d-block.d-lg-none
-              p.mb-0 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactaran el contexto en el cual se realizaron.                  
+              p.mb-0 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactarán el contexto en el cual se realizaron.                  
             h5.mt-4 Área de Influencia
             p Área en la cual se manifiestan de manera objetiva y en lo posible cuantificable, los impactos ambientales significativos ocasionados por la ejecución de un proyecto, obra o actividad, sobre los medios abiótico, biótico y socioeconómico, en cada uno de los componentes de dichos medios.     
 
@@ -47,13 +47,13 @@
         .row.justify-content-center.align-items-center
           .col-lg-10  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img35.png', alt='')
-            h5.mt-4 Estudio de Impacto Ambiental – EsIA
+            h5.mt-4 Estudio de Impacto Ambiental – EIA
             p Es el instrumento básico para la toma de decisiones sobre los proyectos, obras o actividades que requieren licencia ambiental y se exigirá en todos los casos en que de acuerdo con la ley y el presente reglamento se requiera.  
 
         .row.justify-content-center.align-items-center
           .col-lg-10  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img36.png', alt='')
-            h5.mt-4 Estudio de Impacto Ambiental – EsIA - Impacto ambiental
+            h5.mt-4 Estudio de Impacto Ambiental – EIA - Impacto ambiental
             p Cualquier alteración en el medio biótico, abiótico, socioeconómico, que sea adverso o beneficioso, total o parcial, que pueda ser atribuida al desarrollo de un proyecto, obra o actividad (Artículo 2.2.2.3.1.1 del Decreto 1076 de 2015). 
 
         .row.justify-content-center.align-items-center
@@ -72,8 +72,8 @@
           .col-lg-10  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img39.svg', alt='')
             h5.mt-4 Clasificación de los trámites ambientales
-            p Es importante diferenciar que las autorizaciones ambientales son totalmente diferentes a los trámites ambientales, ya que como su nombre lo indica son los trámites son los trámites para obtener dichas licencias o permisos ambientales, aclarando que se cuentan con autorizaciones para introducir elementos ambientales y otras que otorgan derecho del uso de los recursos naturales.
-    p(data-aos="fade-down").mt-5 Para profundizar en el aprendizaje es necesario que se revise la siguiente figura 2 que permitirá conocer la clasificación de los trámites ambientales según su objetivo propuesto.   
+            p Es importante diferenciar que las autorizaciones ambientales son totalmente diferentes a los trámites ambientales, ya que como su nombre lo indica son los trámites para obtener dichas licencias o permisos ambientales, aclarando que se cuentan con autorizaciones para introducir elementos ambientales y otras que otorgan derecho del uso de los recursos naturales.
+    p(data-aos="fade-down").mt-5 Para profundizar en el aprendizaje es necesario que se revise la siguiente figura que permitirá conocer la clasificación de los trámites ambientales según su objetivo propuesto.   
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5        
         .titulo-sexto.color-acento-contenido
@@ -84,17 +84,19 @@
 
     Separador 
     #t_2_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
-      h2 2.2 Tipos de procedimiento en estudios ambientales     
+      h2 2.2 Tipos de procedimientos en estudios ambientales     
     .bg-img7.p-5
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center
         .col-lg-8
-          p(data-aos="flip-down") Los procedimientos ambientales son las instrucciones paso a paso que se deben seguir con el fin de cumplir con las pautas dadas por la normatividad en Colombia antes de iniciar un proyecto, obra o actividad que impacta el medio ambiente, puesto que, si se realizan de forma adecuada, se controlará el Sistema de Gestión Ambiental con todas las actividades, los productos y los procesos de una empresa o un proyecto. 
+          p(data-aos="flip-down") Los procedimientos ambientales son las instrucciones paso a paso que se deben seguir con el fin de cumplir con las pautas dadas por la normatividad en Colombia antes de iniciar un proyecto, obra o actividad que impacta el medio ambiente, puesto que, si se realizan de forma adecuada, se controlará el 
+            span.green #[b Sistema de Gestión Ambiental ]
+            span con todas las actividades, los productos y los procesos de una empresa o un proyecto. 
 
-          p(data-aos="flip-down") Esto genera la disminución de los impactos ambientales que se pudieran dar al ejecutar un proyecto y muestra el cumplimiento por parte de una empresa de las normas de calidad ambiental (ISO- 14001. 2015). De la anterior norma técnica surgen los procedimientos, los cuales se pueden clasificar en dos categorías:
-        .col-lg-3.my-2
-          img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img42.svg', alt='')
+          p(data-aos="flip-down").mb-0 Esto genera la disminución de los impactos ambientales que se pudieran dar al ejecutar un proyecto y muestra el cumplimiento por parte de una empresa de las normas de calidad ambiental (ISO- 14001. 2015). De la anterior norma técnica surgen los procedimientos, los cuales se pueden clasificar en dos categorías:
+        .col-lg-4.my-2.p-0
+          img(data-aos="zoom-in")(src='@/assets/curso/temas/img42.svg', alt='')
 
-    .row.justify-content-evenly.align-items-stretch.mt-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-stretch.mt-5(data-aos="fade-left")
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -105,7 +107,7 @@
 
               h5 Establece cómo debe funcionar el Sistema de Gestión Ambiental.
               p Procedimientos administrativos que realizan la descripción de las actividades que se requieren para el SGA.
-
+      .col-1
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
@@ -116,9 +118,9 @@
               p Indica como disminuir los aspectos ambientales significativos dentro del área de operaciones.     
 
     .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
+      .col-lg-9
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 De acuerdo con lo anterior, existe una serie de procedimientos para que el sistema de gestión ambiental sea funcional, que da visibilidad a las acciones que no se encuentren controladas y que puedan llegar a generar un impacto directo o indirecto sobre el medio, partiendo de esto se puede iniciar un proceso de gestión de calidad. 
+          p.mb-0 De acuerdo con lo anterior, existe una serie de procedimientos para que el Sistema de Gestión Ambiental sea funcional, que da visibilidad a las acciones que no se encuentren controladas y que puedan llegar a generar un impacto directo o indirecto sobre el medio, partiendo de esto se puede iniciar un proceso de gestión de calidad. 
 
     Separador 
     #t_2_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -136,9 +138,9 @@
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-5
         p(data-aos="fade-down") Por esto, es importante resaltar que la Sentencia C-145 de 2021 resuelve declarar la exequibilidad del artículo 125 
-          span.tg “Requisitos Únicos del Permiso o Licencia Ambiental” 
+          span.tg #[b “Requisitos Únicos del Permiso o Licencia Ambiental”] 
           span del Decreto-Ley 2106 de 2019: 
-          span.tg “Por el cual se dictan normas para simplificar, suprimir y reformar trámites, procesos y procedimientos innecesarios existentes en la administración pública”.       
+          span.tg #[b “Por el cual se dictan normas para simplificar, suprimir y reformar trámites, procesos y procedimientos innecesarios existentes en la administración pública”].       
       .col-lg-7
         .cajon.color-primario.p-4.mb-4(data-aos="fade-left")
           p Cuando un proyecto realiza una solicitud para la obtención de una licencia, permiso o concesión ambiental, debe aportar documentos técnicos, que permitan la valoración de los impactos ambientales desde aspectos bióticos, abióticos y sociales, entre otros. 
