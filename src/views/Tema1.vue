@@ -100,9 +100,9 @@
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img11.jpg')})`}")
-                h3.text-center.p-flip_img Zonificación Ambiental                
+                h3.text-center.p-flip_img Zonificación ambiental                
               .tarjeta-flip__contenido.p-3
-                h5 Zonificación Ambiental 
+                h5 Zonificación ambiental 
                 p Esta es la organización y análisis de la información que se tiene del área del proyecto, de donde sale un diagnóstico del estado del ambiente.
 
         .col-sm-6.col-xl-3.mb-4.mb-sm-0
@@ -120,9 +120,9 @@
             .indicador--hover(v-if="indicadorTarjetaFlip")
             .tarjeta-flip__contenedor
               .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/img13.jpg')})`}")
-                h3.text-center.p-flip_img Evaluación Ambiental               
+                h3.text-center.p-flip_img Evaluación ambiental               
               .tarjeta-flip__contenido.p-3
-                h5 Evaluación Ambiental 
+                h5 Evaluación ambiental 
                 p Se realiza una identificación y evaluación de impactos para un escenario sin y con proyecto. 
 
         .col-sm-6.col-xl-3.mb-4.mb-xl-0
@@ -132,7 +132,7 @@
                 h3.text-center.p-flip_img Zonificación de manejo ambiental del proyecto               
               .tarjeta-flip__contenido.p-3
                 h5 Zonificación de manejo ambiental del proyecto
-                p Se toman en cuenta al iniciar la zonificación ambiental y la evaluación de impactos para determinar esta zonificación, además se deben tener en cuenta en el resultado las áreas de intervención, áreas de intervención con restricciones y las áreas de exclusión del área.
+                p Se toman en cuenta al iniciar la zonificación ambiental y la evaluación de impactos para determinar esta zonificación, además se deben tener en cuenta el resultado las áreas de intervención, con restricciones y las áreas de exclusión del área.
 
         .col-sm-6.col-xl-3.mb-4.mb-sm-0
           .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
@@ -218,7 +218,7 @@
               .col-lg-4
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img22.svg', alt='')
 
-            .row.justify-content-center.align-items-center(numero="3" titulo="Evaluación de Impacto y mitigación")
+            .row.justify-content-center.align-items-center(numero="3" titulo="Evaluación de impacto y mitigación")
               .col-lg-8 
                 p Evaluar los impactos ambientales, económicos y socioculturales del proyecto para identificar medidas de mitigación.        
               .col-lg-4

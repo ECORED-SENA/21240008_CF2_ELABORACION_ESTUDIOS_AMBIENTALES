@@ -85,7 +85,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Sistemas de Información Geográfica',
+        titulo: 'Sistemas de información geográfica',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -217,22 +217,22 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Estudio de Impacto Ambiental',
+      termino: 'Estudio de impacto ambiental',
       significado:
         'Es el instrumento básico para la toma de decisiones sobre los proyectos, obras o actividades que requieren licencia ambiental y se exigirá en todos los casos en que de acuerdo con la ley y el presente reglamento se requiera. Impacto ambiental: cualquier alteración en el medio biótico, abiótico, socioeconómico, que sea adverso o beneficioso, total o parcial, que pueda ser atribuida al desarrollo de un proyecto, obra o actividad. (Artículo 2.2.2.3.1.1 del decreto 1076 de 2015)',
     },
     {
-      termino: 'Licencia Ambiental',
+      termino: 'Licencia ambiental',
       significado:
         'Es la autorización que otorga la autoridad ambiental competente para la ejecución de un proyecto, obra o actividad, que de acuerdo con la ley y los reglamentos, pueda producir deterioro grave a los recursos naturales renovables o al medio ambiente o introducir modificaciones considerables o notorias al paisaje; la cual sujeta al beneficiario de esta, al cumplimiento de los requisitos, términos, condiciones y obligaciones que la misma establezca en relación con la prevención, mitigación, corrección, compensación y manejo de los efectos ambientales del proyecto, obra o actividad autorizada.(ANLA)',
     },
     {
-      termino: 'Servicios Ecosistémicos',
+      termino: 'Servicios ecosistémicos',
       significado:
         'Son aquellos procesos y funciones de los ecosistemas que son percibidos por el humano como un beneficio (de tipo ecológico, cultural o económico) directo o indirecto. Incluyen aquellos de aprovisionamiento, como comida y agua; servicios de regulación, como la regulación de las inundaciones, sequías, degradación del terreno y, enfermedades; servicios de sustento como la formación del sustrato y el reciclaje de los nutrientes; y servicios culturales, ya sean recreacionales, espirituales, religiosos u otros beneficios no materiales. (MINAMBIENTE, 2012)',
     },
     {
-      termino: 'Términos de Referencia',
+      termino: 'Términos de referencia',
       significado:
         'Son los lineamientos generales que la autoridad ambiental señala para la elaboración y ejecución de los estudios ambientales que deben ser presentados ante la autoridad ambiental competente. El solicitante de la licencia ambiental deberá utilizar los términos de referencia, de acuerdos con las condiciones específicas del proyecto, obra o actividad que pretende desarrollar (ANLA).',
     },

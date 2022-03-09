@@ -35,13 +35,13 @@
                   p.mb-0.color-green.p-2 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactarán el contexto en el cual se realizaron.
             .color-green.p-2.d-block.d-lg-none
               p.mb-0 Ecopetrol, tendrá 8 parques solares en los departamentos de Antioquia, Meta, Bolívar y Huila, que impactarán el contexto en el cual se realizaron.                  
-            h5.mt-4 Área de Influencia
+            h5.mt-4 Área de influencia
             p Área en la cual se manifiestan de manera objetiva y en lo posible cuantificable, los impactos ambientales significativos ocasionados por la ejecución de un proyecto, obra o actividad, sobre los medios abiótico, biótico y socioeconómico, en cada uno de los componentes de dichos medios.     
 
         .row.justify-content-center.align-items-center
           .col-lg-10  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.svg', alt='')
-            h5.mt-4 Área de Influencia
+            h5.mt-4 Área de influencia
             p Debido a que las áreas de los impactos pueden variar dependiendo del componente que se analice, el área de influencia podrá corresponder a varios polígonos distintos que se entrecruzan entre sí.  
 
         .row.justify-content-center.align-items-center
@@ -65,7 +65,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-10  
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img38.svg', alt='')
-            h5.mt-4 Servicios Ecosistémicos
+            h5.mt-4 Servicios ecosistémicos
             p Son aquellos procesos y funciones de los ecosistemas que son percibidos por el humano como un beneficio (de tipo ecológico, cultural o económico) directo o indirecto. (Minambiente, 2012). 
 
         .row.justify-content-center.align-items-center

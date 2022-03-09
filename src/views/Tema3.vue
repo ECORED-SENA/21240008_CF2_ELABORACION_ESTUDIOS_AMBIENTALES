@@ -101,7 +101,7 @@
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img60.jpg', alt='')
             p.mt-4 Este tiene relación directa con la cantidad de datos que se manejan, con el fin de que estos arrojen la información requerida en un momento dado, por ejemplo: para diseñar un plan de emergencias o para ser utilizado en educación.  
 
-    p(data-aos="fade-down").mt-5 Por último, los SIG están en inmersos en el diario vivir, pueden servir para diferentes investigaciones tanto personales como laborales, como, por ejemplo: podría ser investigar la contaminación de una zona determinada o una investigación laboral como una campaña de mercadeo para una empresa que busca conocer al detalle información sobre sus clientes.
+    p(data-aos="fade-down").mt-5 Por último, los SIG están inmersos en el diario vivir, pueden servir para diferentes investigaciones tanto personales como laborales, como, por ejemplo: investigar la contaminación de una zona determinada o una investigación laboral como una campaña de mercadeo para una empresa que busca conocer al detalle información sobre sus clientes.
 
     Separador 
     #t_3_2.titulo-segundo.color-primario(data-aos="zoom-in-left")
