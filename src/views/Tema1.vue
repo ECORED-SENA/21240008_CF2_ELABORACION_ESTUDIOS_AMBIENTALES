@@ -194,7 +194,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-8
-        p(data-aos="flip-down").p-5.color-grad-green.mb-0 Es por esto, que la Metodología General para la Elaboración y Presentación de Estudios Ambientales se constituye en un instrumento de apoyo; una guía donde se pretenden plasmar los lineamientos generales para orientar a quienes los elaboran antes de iniciar un proyecto, obra o actividades sujetas a licenciamiento ambiental, esto se hace con el fin de que dichos estudios contengan la información necesaria, relevante y suficiente para que las autoridades ambientales puedan tomar decisiones frente al desarrollo y ejecución de los proyectos en mención.
+        p(data-aos="flip-down").p-3.color-grad-green.mb-0 Es por esto, que la Metodología General para la Elaboración y Presentación de Estudios Ambientales se constituye en un instrumento de apoyo; una guía donde se pretenden plasmar los lineamientos generales para orientar a quienes los elaboran antes de iniciar un proyecto, obra o actividades sujetas a licenciamiento ambiental, esto se hace con el fin de que dichos estudios contengan la información necesaria, relevante y suficiente para que las autoridades ambientales puedan tomar decisiones frente al desarrollo y ejecución de los proyectos en mención.
       .col-lg-3.my-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img19.svg', alt='')
 
