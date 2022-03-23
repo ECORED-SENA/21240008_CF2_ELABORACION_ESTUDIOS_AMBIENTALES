@@ -182,8 +182,8 @@
                   p.text-small.text-white Para profundizar sobre la importancia de la participación ciudadana en la planeación, ejecución y control de proyectos de alto impacto social que afecten el contexto o la comunidad, se invita a ver el video de la ANLA “Balance Audiencia Pública Ambiental, Ejecución de obras de construcción y operación del Aeropuerto el Dorado en Bogotá”, ubicado en el material complementario.
                 .col-sm-auto
                   a.boton.color-acento-contenido.texto-blanco.bg-boton(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download     
+                    span Ver video
+                    i.fas.fa-play-circle     
 
     Separador 
     #t_1_3.titulo-segundo.color-primario(data-aos="zoom-in-left")
@@ -265,8 +265,8 @@
                     p.text-small.text-white Para profundizar en su aprendizaje, se invita a revisar el video: “Términos de referencia para la elaboración del estudio de impacto ambiental”, el cual se encuentra en la sección de material complementario.
                   .col-sm-auto
                     a.boton.color-acento-contenido.texto-blanco.bg-boton(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                      span Descargar
-                      i.fas.fa-file-download
+                      span Ver video
+                      i.fas.fa-play-circle   
     Separador 
 
 </template>

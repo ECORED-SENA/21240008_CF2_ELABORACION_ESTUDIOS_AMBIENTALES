@@ -93,8 +93,8 @@
                   p.text-small.text-white Para profundizar en el tema le invito a ver el video que a continuación, se muestra para que refuerce su aprendizaje.
                 .col-sm-auto
                   a.boton.color-acento-contenido.texto-blanco.bg-boton(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download      
+                    span Ver video
+                    i.fas.fa-play-circle
     Separador                          
 
 </template>
