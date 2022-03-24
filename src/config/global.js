@@ -289,12 +289,12 @@ export default {
       },
       {
         nombre: 'Ana Vela Rodriguez Velásquez',
-        cargo: 'Diseñadora Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de gestión Industrial Regional Bogotá- Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
       },
