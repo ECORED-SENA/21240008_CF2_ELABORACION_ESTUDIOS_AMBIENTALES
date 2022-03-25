@@ -278,7 +278,7 @@ export default {
       },
       {
         nombre: 'Lizeth Daniela Reinoso',
-        cargo: 'Experta',
+        cargo: 'Experta temática',
         centro: 'Centro Agropecuario La Granja',
       },
       {
