@@ -200,12 +200,6 @@ export default {
         'https://www.corteconstitucional.gov.co/relatoria/2021/C-145-21.htm',
     },
     {
-      referencia:
-        'Flórez. D. y Fernández. D. (2017). Los sistemas de información geográfica. Una revisión. Universidad de la Amazonia.',
-      link:
-        'http://www.udla.edu.co/revistas/index.php/fagropec/article/view/708/728',
-    },
-    {
       referencia: 'ISO14001. 2015. Procedimientos ambientales.',
       link:
         'https://www.nueva-iso-14001.com/2015/05/iso-14001-los-procedimientos-ambientales/',
