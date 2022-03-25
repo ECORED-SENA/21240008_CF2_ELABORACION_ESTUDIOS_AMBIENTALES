@@ -92,7 +92,7 @@
                 .col.mb-3.mb-sm-0
                   p.text-small.text-white Para profundizar en el tema le invito a ver el video que a continuación, se muestra para que refuerce su aprendizaje.
                 .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco.bg-boton(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-contenido.texto-blanco.bg-boton(href="https://www.youtube.com/watch?v=FSiZvosPPzg" target="_blank")
                     span Ver video
                     i.fas.fa-play-circle
     Separador                          
