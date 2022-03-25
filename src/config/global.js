@@ -285,7 +285,7 @@ export default {
       {
         nombre: 'Lizeth Daniela Reinoso',
         cargo: 'Experta',
-        centro: 'Centro Agropecuario la Granja',
+        centro: 'Centro Agropecuario La Granja',
       },
       {
         nombre: 'Ana Vela Rodriguez Velásquez',
@@ -296,13 +296,13 @@ export default {
         nombre: 'Ana Catalina Córdoba Sus',
         cargo: 'Revisora metodológica y pedagógica',
         centro:
-          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Diseñador y evaluador instruccional',
         centro:
-          'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -355,7 +355,7 @@ export default {
       },
       {
         nombre: 'Edward Leonardo Pico Cabra',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
