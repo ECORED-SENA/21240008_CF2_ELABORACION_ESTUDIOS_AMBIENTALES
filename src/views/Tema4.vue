@@ -81,20 +81,13 @@
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img74.svg', alt='')   
 
     p(data-aos="fade-down").mt-5 Por último, cabe resaltar que la ANLA maneja un sistema centralizado llamado VITAL, desde allí se pueden redireccionar y gestionar trámites ambientales en línea facilitando el proceso para el usuario, en esta plataforma se podrá encontrar: los procedimientos, sin embargo, es clave aclarar que de manera presencial se puede gestionar cualquier tipo de trámites ambientales.
-    .row.justify-content-center.align-items-center.mt-5
-      .col-lg-10
-        .tarjeta.color-primario.p-3.mt-5(data-aos="flip-down")
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1
-              img(src="@/assets/curso/temas/video.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.text-small.text-white Para profundizar en el tema le invito a ver el video que a continuación, se muestra para que refuerce su aprendizaje.
-                .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco.bg-boton(href="https://www.youtube.com/watch?v=FSiZvosPPzg" target="_blank")
-                    span Ver video
-                    i.fas.fa-play-circle
+    p.mt-5(data-aos="fade-down")  Para profundizar en el tema le invito a ver el video que a continuación, se muestra para que refuerce su aprendizaje.
+
+    .row.justify-content-center.align-items-center.mt-5           
+      .col-lg-12(data-aos="fade-left")     
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/FSiZvosPPzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                
     Separador                          
 
 </template>
