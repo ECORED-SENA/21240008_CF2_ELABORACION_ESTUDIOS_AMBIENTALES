@@ -158,7 +158,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   p.text-small.text-white Para profundizar en su aprendizaje se invita a revisar los siguientes recursos de aprendizaje que se encuentran en la sección de material complementario.
-                  a(href="http://portal.anla.gov.co/normativa/historial-normativa-ambiental" target="_blank")
+                  a(href="https://www.anla.gov.co/allcategories-es-es/37-normatividad/normas-ambientales" target="_blank")
                     p.text-small.text-white #[b #[u Listado de Normativa Ambiental]] 
                       i.fas.fa-external-link-alt
  

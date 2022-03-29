@@ -43,27 +43,27 @@
         figure
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img54.svg', alt='')     
 
-      .tarjeta.color-acento-botones.p-3(x="26.8%" y="22%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="22.8%" y="22%" numero="")
         .h5.mb-2 Planificación hidrológica
         p Ha servido para planificar y gestionar los recursos hídricos, para luego generar el análisis y la evaluación de estos. 
 
-      .tarjeta.color-acento-botones.p-3(x="30.8%" y="46%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="27.8%" y="46%" numero="")
         .h5.mb-2 Agricultura y medio ambiente
         p Se pueden optimizar los recursos del suelo y agua, así como: la planificación de los sistemas de producción. 
 
-      .tarjeta.color-acento-botones.p-3(x="44%" y="63%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="43%" y="63%" numero="")
         .h5.mb-2 #[i Geomarketing]
         p Se ha usado para crear campañas de #[i marketing], puesto que es indispensable la información geográfica, la cual suministra bases de datos de clientes para determinar cuál es la estrategia óptima.         
 
-      .tarjeta.color-acento-botones.p-3(x="59.6%" y="60.3%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="61.6%" y="60.3%" numero="")
         .h5.mb-2 Planes de emergencia
         p Se crean mapas para saber cómo actuar en caso de catástrofes, tales como:  incendios forestales, inundaciones o terremotos, etc.  
 
-      .tarjeta.color-acento-botones.p-3(x="70%" y="43%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="73.5%" y="43%" numero="")
         .h5.mb-2 Educación e investigación
         p Permiten incentivar en los estudiantes un pensamiento geográfico por medio de la investigación y comprensión de los diferentes factores.         
 
-      .tarjeta.color-acento-botones.p-3(x="73%" y="22%" numero="")
+      .tarjeta.color-acento-botones.p-3(x="77%" y="22%" numero="")
         .h5.mb-2 Sector salud
         p Los SIG permiten conocer cuáles servicios de salud se ofertan en cierto sector en específico, de igual manera, pueden dar a conocer algún factor de riesgo en una determinada zona.           
 

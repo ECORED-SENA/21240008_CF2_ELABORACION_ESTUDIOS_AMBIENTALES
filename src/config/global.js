@@ -180,11 +180,12 @@ export default {
       referencia:
         'ANLA (2018). Nuevas herramientas para facilitar trámites a los usuarios.',
       link:
-        'http://portal.anla.gov.co/noticias/nuevas-herramientas-facilitar-tramites-usuarios',
+        'https://www.anla.gov.co/noticias/1248-nuevas-herramientas-para-facilitar-tramites-a-los-usuarios',
     },
     {
       referencia: 'ANLA (2019). ABC del licenciamiento.',
-      link: 'http://portal.anla.gov.co/paso-paso',
+      link:
+        'https://www.anla.gov.co/tramites-y-servicios/servicios/abc-del-licenciamiento-ambiental',
     },
     {
       referencia: 'ANLA. (2021). Trámites y servicios.',
@@ -252,7 +253,8 @@ export default {
     {
       texto: 'ANLA. (2021). Listado de Normativa ambiental.',
       tipo: 'Artículo',
-      link: 'http://portal.anla.gov.co/normativa/historial-normativa-ambiental',
+      link:
+        'https://www.anla.gov.co/allcategories-es-es/37-normatividad/normas-ambientales',
     },
     {
       texto: 'Corte Constitucional. Sentencia C-145 de 2021.',
