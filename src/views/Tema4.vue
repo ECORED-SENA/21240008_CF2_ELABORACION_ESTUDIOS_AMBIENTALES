@@ -20,7 +20,7 @@
 
     .row.justify-content-center.align-items-top.mt-5
       .col-lg-9
-        p(data-aos="flip-down").mt-3.p-4.color-grad-green A continuación, se darán a conocer algunos conceptos clave a la hora de realizar algún trámite ambiental, los cuales son de vital importancia para cada proyecto, obra o actividad, cabe resaltar que según la CAR los proyectos que requieren de Licencia Ambiental son aquellos listados en el Articulo 2.2.2.3.2.3 del Decreto 1076 de 2015.
+        p(data-aos="flip-down").mt-3.p-4.color-grad-green A continuación, se darán a conocer algunos conceptos clave a la hora de realizar algún trámite ambiental, los cuales son de vital importancia para cada proyecto, obra o actividad, cabe resaltar que según la CAR los proyectos que requieren de Licencia Ambiental son aquellos listados en el Artículo 2.2.2.3.2.3 del Decreto 1076 de 2015.
         p(data-aos="fade-down") Por otro lado, las obligaciones generales que debe asumir el titular de una Licencia Ambiental están descritas por la CAR, 2015, por lo cual, se deben tener en cuenta los conceptos que podrá revisar en el recurso de aprendizaje que se encuentra a continuación:
 
       .col-lg-3.my-2
@@ -81,7 +81,7 @@
     img.img-a.img-t.mt-5(data-aos="zoom-in")(src='@/assets/curso/temas/img74.svg', alt='')   
 
     p(data-aos="fade-down").mt-5 Por último, cabe resaltar que la ANLA maneja un sistema centralizado llamado VITAL, desde allí se pueden redireccionar y gestionar trámites ambientales en línea facilitando el proceso para el usuario, en esta plataforma se podrá encontrar: los procedimientos, sin embargo, es clave aclarar que de manera presencial se puede gestionar cualquier tipo de trámites ambientales.
-    p.mt-5(data-aos="fade-down")  Para profundizar en el tema le invito a ver el video que a continuación, se muestra para que refuerce su aprendizaje.
+    p.mt-5(data-aos="fade-down")  Para profundizar en el tema le invito a ver el video que a continuación se muestra para que refuerce su aprendizaje.
 
     .row.justify-content-center.align-items-center.mt-5           
       .col-lg-12(data-aos="fade-left")     

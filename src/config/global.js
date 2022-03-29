@@ -187,7 +187,7 @@ export default {
       link: 'http://portal.anla.gov.co/paso-paso',
     },
     {
-      referencia: 'ANLA. (2021). Trámite y servicios.',
+      referencia: 'ANLA. (2021). Trámites y servicios.',
       link: 'https://www.anla.gov.co/tramites-y-servicios',
     },
     {
@@ -213,17 +213,17 @@ export default {
     {
       termino: 'Estudio de impacto ambiental',
       significado:
-        'Es el instrumento básico para la toma de decisiones sobre los proyectos, obras o actividades que requieren licencia ambiental y se exigirá en todos los casos en que de acuerdo con la ley y el presente reglamento se requiera. Impacto ambiental: cualquier alteración en el medio biótico, abiótico, socioeconómico, que sea adverso o beneficioso, total o parcial, que pueda ser atribuida al desarrollo de un proyecto, obra o actividad. (Artículo 2.2.2.3.1.1 del decreto 1076 de 2015)',
+        'Es el instrumento básico para la toma de decisiones sobre los proyectos, obras o actividades que requieren licencia ambiental y se exigirá en todos los casos en que de acuerdo con la ley y el presente reglamento se requiera. Impacto ambiental: cualquier alteración en el medio biótico, abiótico, socioeconómico, que sea adverso o beneficioso, total o parcial, que pueda ser atribuida al desarrollo de un proyecto, obra o actividad. (Artículo 2.2.2.3.1.1 del decreto 1076 de 2015).',
     },
     {
       termino: 'Licencia ambiental',
       significado:
-        'Es la autorización que otorga la autoridad ambiental competente para la ejecución de un proyecto, obra o actividad, que de acuerdo con la ley y los reglamentos, pueda producir deterioro grave a los recursos naturales renovables o al medio ambiente o introducir modificaciones considerables o notorias al paisaje; la cual sujeta al beneficiario de esta, al cumplimiento de los requisitos, términos, condiciones y obligaciones que la misma establezca en relación con la prevención, mitigación, corrección, compensación y manejo de los efectos ambientales del proyecto, obra o actividad autorizada.(ANLA)',
+        'Es la autorización que otorga la autoridad ambiental competente para la ejecución de un proyecto, obra o actividad, que de acuerdo con la ley y los reglamentos, pueda producir deterioro grave a los recursos naturales renovables o al medio ambiente o introducir modificaciones considerables o notorias al paisaje; la cual sujeta al beneficiario de esta, al cumplimiento de los requisitos, términos, condiciones y obligaciones que la misma establezca en relación con la prevención, mitigación, corrección, compensación y manejo de los efectos ambientales del proyecto, obra o actividad autorizada.(ANLA).',
     },
     {
       termino: 'Servicios ecosistémicos',
       significado:
-        'Son aquellos procesos y funciones de los ecosistemas que son percibidos por el humano como un beneficio (de tipo ecológico, cultural o económico) directo o indirecto. Incluyen aquellos de aprovisionamiento, como comida y agua; servicios de regulación, como la regulación de las inundaciones, sequías, degradación del terreno y, enfermedades; servicios de sustento como la formación del sustrato y el reciclaje de los nutrientes; y servicios culturales, ya sean recreacionales, espirituales, religiosos u otros beneficios no materiales. (MINAMBIENTE, 2012)',
+        'Son aquellos procesos y funciones de los ecosistemas que son percibidos por el humano como un beneficio (de tipo ecológico, cultural o económico) directo o indirecto. Incluyen aquellos de aprovisionamiento, como comida y agua; servicios de regulación, como la regulación de las inundaciones, sequías, degradación del terreno y, enfermedades; servicios de sustento como la formación del sustrato y el reciclaje de los nutrientes; y servicios culturales, ya sean recreacionales, espirituales, religiosos u otros beneficios no materiales. (MINAMBIENTE, 2012).',
     },
     {
       termino: 'Términos de referencia',
@@ -233,13 +233,13 @@ export default {
     {
       termino: 'Valoración económica ambiental',
       significado:
-        'Asignación de valores cuantitativos a los bienes y servicios proporcionados por recursos naturales, independientemente de si existen o no precios de mercado que ayuden a hacerlo. (Convención Ramsar, 1997)',
+        'Asignación de valores cuantitativos a los bienes y servicios proporcionados por recursos naturales, independientemente de si existen o no precios de mercado que ayuden a hacerlo. (Convención Ramsar, 1997).',
     },
   ],
   complementario: [
     {
       texto:
-        'ANLA. (2021). Audiencia pública ambiental, ¨ Ejecución de obras Construcción y operación del Aeropuerto el Dorado¨ [Video]. YouTube.',
+        'ANLA. (2021). Audiencia pública ambiental, "Ejecución de obras Construcción y operación del Aeropuerto el Dorado" [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=vuMVwLjPmeY&t=16s',
     },

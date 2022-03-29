@@ -115,7 +115,7 @@
               h3.text-center.p-flip_img Establece cómo controlar operaciones.
             .tarjeta-flip__contenido.p-5
               h5 Establece cómo controlar operaciones.
-              p Indica como disminuir los aspectos ambientales significativos dentro del área de operaciones.     
+              p Indica cómo disminuir los aspectos ambientales significativos dentro del área de operaciones.     
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-9
