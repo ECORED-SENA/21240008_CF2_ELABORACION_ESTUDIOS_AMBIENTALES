@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="68" viewBox="0 0 83 68">
+  <g id="ver-la-pelicula" transform="translate(-2 -6)">
+    <path id="Trazado_104177" data-name="Trazado 104177" d="M20,33H35.078V48.078H20Z" transform="translate(15.925 23.888)" fill="#8fa5a5"/>
+    <rect id="Rectángulo_5278" data-name="Rectángulo 5278" width="65" height="8" rx="2" transform="translate(11 66)" fill="#2d4a60"/>
+    <path id="Trazado_104178" data-name="Trazado 104178" d="M10.769,43.769H67.311A3.769,3.769,0,0,0,71.081,40H7A3.769,3.769,0,0,0,10.769,43.769Z" transform="translate(4.424 30.081)" fill="#263f52"/>
+    <rect id="Rectángulo_5279" data-name="Rectángulo 5279" width="83" height="57" rx="5" transform="translate(2 6)" fill="#2d4a60"/>
+    <rect id="Rectángulo_5280" data-name="Rectángulo 5280" width="75" height="49" rx="3" transform="translate(6 10)" fill="#eaeff0"/>
+    <path id="Trazado_104179" data-name="Trazado 104179" d="M6.874,8.4A5.632,5.632,0,0,0,4,13.3V50.995a5.654,5.654,0,0,0,5.654,5.654H73.735a5.581,5.581,0,0,0,2.78-.754Z" transform="translate(1.769 2.123)" fill="#cdd3d3"/>
+    <path id="Trazado_104180" data-name="Trazado 104180" d="M32.4,11.5a17.9,17.9,0,1,0,17.9,17.9A17.9,17.9,0,0,0,32.4,11.5Zm6.551,19.537-9.333,5.388A1.885,1.885,0,0,1,26.8,34.793V24.017a1.885,1.885,0,0,1,2.827-1.632l9.333,5.388a1.885,1.885,0,0,1,0,3.264Z" transform="translate(11.059 4.866)" fill="#f1a67e"/>
+    <path id="Trazado_104181" data-name="Trazado 104181" d="M36.7,28.667l-7.083,4.088a1.885,1.885,0,0,1-2.827-1.632V21.91l-9.182-6.261A17.9,17.9,0,1,0,47.2,35.816Z" transform="translate(11.06 8.537)" fill="#c1805d"/>
+  </g>
+</svg>
